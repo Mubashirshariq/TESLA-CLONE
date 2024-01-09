@@ -33,4 +33,4 @@ To run this project locally, follow these steps:
     ```bash
     cd TESLA-CLONE
     ```
-3. Open the base.html file in your preferred web browser or set up a local server.
+3. Open the base.html file in your preferred web browser.
