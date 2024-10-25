@@ -1,3 +1,10 @@
+---
+title: tesla clone
+description: this is my first proj
+tags: money, incojfkd
+conver_image: fjdka
+---
+
 # Tesla Website Clone
 
 Welcome to the Tesla Website Clone! This project is a frontend replica of the official Tesla website.
